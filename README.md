@@ -1,6 +1,6 @@
 # Italia, ¡a la mesa!
 
-Sitio estático para una feria gastronómica. Incluye 20 curiosidades, seis secciones, desplegables nativos y un quiz de seis preguntas con explicaciones, repaso y reinicio. HTML, CSS y JavaScript sin frameworks ni backend.
+Sitio estático para la feria gastronómicadel IGA. Incluye 20 curiosidades, seis secciones, desplegables nativos y un quiz de seis preguntas con explicaciones, repaso y reinicio. HTML, CSS y JavaScript sin frameworks ni backend.
 
 ## Publicar en GitHub Pages
 
