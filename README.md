@@ -1,6 +1,6 @@
 # Italia, ¡a la mesa!
 
-Sitio estático para la feria gastronómicadel IGA. Incluye 20 curiosidades, seis secciones, desplegables nativos y un quiz de seis preguntas con explicaciones, repaso y reinicio. HTML, CSS y JavaScript sin frameworks ni backend.
+Sitio estático para una feria gastronómica. Incluye 23 curiosidades, seis secciones, desplegables nativos y un quiz de seis preguntas con explicaciones, repaso y reinicio. HTML, CSS y JavaScript sin frameworks ni backend.
 
 ## Publicar en GitHub Pages
 
@@ -19,7 +19,7 @@ Configuración de la fuente: https://docs.github.com/en/pages/getting-started-wi
 
 ## Vista previa
 
-Puedes abrir `index.html` directamente en un navegador; no necesita instalación ni compilación. También puedes servir la carpeta con cualquier servidor estático. Todas las rutas de recursos son relativas, compatibles con la subcarpeta de un repositorio de GitHub Pages.
+Puedes abrir `index.html` directamente en un navegador; no necesita instalación ni compilación. También puedes servir la carpeta con cualquier servidor estático. Las fotografías se incluyen en `assets/photos/`, con créditos y licencias en la página y en `assets/photo-credits.json`. Todas las rutas de recursos son relativas, compatibles con la subcarpeta de un repositorio de GitHub Pages.
 
 ## Archivos
 
@@ -40,6 +40,27 @@ Idioma español, estructura semántica, salto al contenido, navegación por tecl
 
 ## Criterio editorial
 
-Son 14 curiosidades en las primeras cuatro secciones y seis paradas regionales en el viaje. Las costumbres no se presentan como reglas universales, las leyendas se identifican como relatos y la historia documentada se distingue de un origen demostrado. El casu marzu se presenta como curiosidad cultural. Fuentes revisadas en octubre de 2026: turismo oficial de Italia y Florencia, UNESCO, Treccani, Credem, Biblioteca Salaborsa, Ayuntamiento de Milán, Accademia Italiana della Cucina y publicaciones gastronómicas. La primera costumbre sobre spaghetti se marca como observación cultural, sin atribución histórica específica.
+Son 17 curiosidades en las primeras cuatro secciones y seis paradas regionales en el viaje. Las costumbres no se presentan como reglas universales, las leyendas se identifican como relatos y la historia documentada se distingue de un origen demostrado. El casu marzu se presenta como curiosidad cultural. Fuentes revisadas en octubre de 2026: turismo oficial de Italia y Florencia, UNESCO, Treccani, Credem, Biblioteca Salaborsa, Ayuntamiento de Milán, Accademia Italiana della Cucina y publicaciones gastronómicas, además de Ferrero y el Museo del Pomodoro. La primera costumbre sobre spaghetti se marca como observación cultural, sin atribución histórica específica.
 
 El sitio se entrega listo para publicar; no se ha subido a una cuenta de GitHub ni se ha generado todavía un QR con URL definitiva.
+
+
+## Contraste con «curiosidades italia.docx»
+
+Se revisaron los cinco temas del documento proporcionado. Ahora todos están cubiertos en el sitio; los textos se contrastaron con las fuentes enlazadas y se corrigieron las simplificaciones históricas.
+
+| Tema del documento | Situación anterior | Actualización |
+|---|---|---|
+| Banco que acepta queso | Ya estaba | Se amplió con 40 kg de peso medio, unos 550 litros de leche y al menos 12 meses de maduración; fuentes del Consorcio. Se añadió un bloque gráfico. |
+| Tomate procedente de América | Faltaba | Nueva tarjeta, con llegada a Europa en el XVI y primeras recetas impresas italianas ya a finales del XVII. Se aclara que la papa hace posibles los ñoquis de papa, no todos los ñoquis. |
+| Historia de Nutella | Faltaba | Nueva tarjeta con la secuencia correcta: Giandujot 1946, Supercrema 1951, Nutella 1964. Fuente del fabricante. |
+| Significado y origen disputado del tiramisù | Significado incluido | Se amplió con las reivindicaciones de Véneto y Friuli-Venecia Julia y la tradición reconocida en Friuli, sin presentar la inscripción como prueba definitiva del origen. |
+| Platos italianos e italoamericanos | Carbonara incluida parcialmente | Nueva tarjeta comparativa. Las fettuccine Alfredo tienen origen romano; la versión con pollo es una adaptación. Los spaghetti con grandes albóndigas son un emblema italoamericano. Se evitaron afirmaciones universales sobre lo que Italia «no conoce». |
+
+### Identidad de la feria
+
+El nombre «Feria Gastronómica de Comida Internacional IGA» aparece en la franja de apertura, portada, cierre, equipo y pie de página. Se incluyen los integrantes tal como figuran en el documento: Rocío Melany, Dylan Revollo y Nancy Figueroa. La referencia a IGA es tipográfica; no se ha inventado ni utilizado un logotipo institucional.
+
+### Fotografías
+
+Diez fotografías locales alusivas a pizza, tiramisù, Parmigiano Reggiano, tomates, Nutella sobre pan, cappuccino, lampredotto, casu marzu, bottarga y tortellini. Las fotos de cappuccino y tortellini aparecen dentro de sus desplegables. Se añadió una ilustración propia de pimientos. Los autores, páginas originales y licencias de cada fotografía figuran en el desplegable de créditos del sitio y en `assets/photo-credits.json`. Las fotografías ilustran alimentos y no se presentan como fotos del evento IGA. Los recortes de encuadre conservan la licencia de cada imagen.

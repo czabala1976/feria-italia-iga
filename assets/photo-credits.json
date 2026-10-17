@@ -1,0 +1,82 @@
+[
+  {
+    "id": "pizza",
+    "file": "assets/photos/pizza.jpg",
+    "title": "Margherita Originale.JPG",
+    "author": "Mario56",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+    "source": "https://commons.wikimedia.org/wiki/File:Margherita_Originale.JPG"
+  },
+  {
+    "id": "queso",
+    "file": "assets/photos/queso.jpg",
+    "title": "Parmigiano Reggiano - meules.jpg",
+    "author": "Gilles Desjardins",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
+    "source": "https://commons.wikimedia.org/wiki/File:Parmigiano_Reggiano_-_meules.jpg"
+  },
+  {
+    "id": "tomates",
+    "file": "assets/photos/tomates.jpg",
+    "title": "Ripe tomatoes.jpg",
+    "author": "Geems04",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
+    "source": "https://commons.wikimedia.org/wiki/File:Ripe_tomatoes.jpg"
+  },
+  {
+    "id": "nutella",
+    "file": "assets/photos/nutella.jpg",
+    "title": "Nutella bread 12-2015.jpg",
+    "author": "A.Savin",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+    "source": "https://commons.wikimedia.org/wiki/File:Nutella_bread_12-2015.jpg"
+  },
+  {
+    "id": "cappuccino",
+    "file": "assets/photos/cappuccino.jpg",
+    "title": "Cappuccino-cup 20230110 103258.jpg",
+    "author": "Ioacc1234red",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
+    "source": "https://commons.wikimedia.org/wiki/File:Cappuccino-cup_20230110_103258.jpg"
+  },
+  {
+    "id": "lampredotto",
+    "file": "assets/photos/lampredotto.jpg",
+    "title": "Panino lampredotto.jpg",
+    "author": "Lamacchiacosta",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
+    "source": "https://commons.wikimedia.org/wiki/File:Panino_lampredotto.jpg"
+  },
+  {
+    "id": "casu-marzu",
+    "file": "assets/photos/casu-marzu.jpg",
+    "title": "Casu Marzu cheese.jpg",
+    "author": "Shardan",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.5/deed.en",
+    "source": "https://commons.wikimedia.org/wiki/File:Casu_Marzu_cheese.jpg"
+  },
+  {
+    "id": "bottarga",
+    "file": "assets/photos/bottarga.jpg",
+    "title": "Bottarga 2012-11-01.jpg",
+    "author": "之屋 漁",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0/deed.en",
+    "source": "https://commons.wikimedia.org/wiki/File:Bottarga_2012-11-01.jpg"
+  },
+  {
+    "id": "tortellini",
+    "file": "assets/photos/tortellini.jpg",
+    "title": "Tortellini con la panna.jpg",
+    "author": "Pietro Luca Cassarino",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
+    "source": "https://commons.wikimedia.org/wiki/File:Tortellini_con_la_panna.jpg"
+  },
+  {
+    "id": "tiramisu",
+    "file": "assets/photos/tiramisu.jpg",
+    "title": "Tiramisu Fanes.jpg",
+    "author": "Markus Mitterauer from Austria aka addicted",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0/deed.en",
+    "source": "https://commons.wikimedia.org/wiki/File:Tiramisu_Fanes.jpg"
+  }
+]
