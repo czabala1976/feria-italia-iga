@@ -1,0 +1,146 @@
+[
+  {
+    "id": "arancini",
+    "title": "Arancinis de Ragú con Jamón",
+    "yield": "Rinde: 45 bocaditos de ~25-30 g",
+    "ingredient_groups": [
+      {
+        "name": "Arroz",
+        "items": [
+          "Arroz Arborio: 750 g",
+          "Caldo de verduras: 1800 g",
+          "Cúrcuma: 1.5 cdtas.",
+          "Mantequilla: 45 g",
+          "Queso parmesano rallado: 75 g",
+          "Sal: c/n"
+        ]
+      },
+      {
+        "name": "Relleno",
+        "items": [
+          "Carne picada de res: 400 g",
+          "Jamón cocido en cubitos: 150 g",
+          "Cebolla picada: 2 und.",
+          "Tomate triturado: 250 g",
+          "Arvejas cocidas: 75 g",
+          "Queso mozzarella en cubitos: 150 g",
+          "Aceite de oliva, sal y pimienta: c/n"
+        ]
+      },
+      {
+        "name": "Rebozado",
+        "items": [
+          "Harina 0000: 160 g",
+          "Agua: 240 g",
+          "Pan rallado: c/n",
+          "Aceite vegetal para freír"
+        ]
+      }
+    ],
+    "steps": [
+      "Cocinar el arroz: Hierve el caldo con la cúrcuma y añade el arroz. Cocina a fuego medio hasta absorber el líquido. Retira del fuego, integra la mantequilla y el parmesano, y extiende en una bandeja plana para enfriar por completo.",
+      "Elaborar el relleno: Sofríe la cebolla en aceite de oliva, añade la carne y dórala. Incorpora el tomate y reduce hasta obtener un estofado espeso. Agrega el jamón, las arvejas y deja enfriar.",
+      "Armado: Con las manos húmedas, toma porciones de 20-25 g de arroz frío, ahueca el centro, coloca una cucharadita del estofado y un cubo de mozzarella. Cierra formando pequeñas esferas de 25-30 g.",
+      "Fritura: Pasa cada bolita por una mezcla ligera de harina y agua (liga), luego por pan rallado, y fríe en abundante aceite a 175 °C durante 2 o 3 minutos hasta dorar. Escurre en papel absorbente."
+    ]
+  },
+  {
+    "id": "focaccia",
+    "title": "Focaccia Rellena con Jamón (estilo sándwich gratinado)",
+    "yield": "Rinde: 45 bocaditos rectangulares de ~30 g",
+    "ingredient_groups": [
+      {
+        "name": "Masa",
+        "items": [
+          "Harina 000: 1350 g",
+          "Agua: 1120 g",
+          "Masa madre activa: 280 g",
+          "Sal: 28 g",
+          "Aceite de oliva: 28 g + extra para moldes"
+        ]
+      },
+      {
+        "name": "Relleno",
+        "items": [
+          "Salsa de tomate espesa: 700 g",
+          "Jamón cocido en lonjas o tiras: 350 g",
+          "Queso mozzarella: 560 g"
+        ]
+      },
+      {
+        "name": "Para terminar",
+        "items": [
+          "Aceite de oliva, sal gruesa y romero (c/n)",
+          "Albahaca fresca para decorar (opcional)"
+        ]
+      }
+    ],
+    "steps": [
+      "Masa y fermentación: Disuelve la masa madre en la mitad del agua, integra la harina, el aceite, la sal y el resto del agua progresivamente. Realiza pliegues cada 30 minutos (3 series). Divide en dos partes iguales, coloca en moldes aceitados y lleva al frío por  24 horas. Saca y deja fermentar de 5 a 6 horas a temperatura ambiente.",
+      "Hornear la focaccia sola: Baña la superficie con aceite de oliva, haz los hoyuelos característicos con las yemas de los dedos y espolvorea sal gruesa y romero. Hornea a 250 °C en la parte baja del horno durante 10 minutos; baja a 210 °C por 12-15 minutos más, hasta que esté dorada. Deja enfriar sobre una rejilla.",
+      "Armar el sándwich: Con la focaccia ya cocida y fría, usa una de las placas como base. Úntala con la salsa de tomate y distribuye el jamón y la mozzarella de manera uniforme. Cubre con la segunda placa de focaccia, como una tapa de sándwich, y presiona suavemente.",
+      "Gratinar: Lleva el sándwich de nuevo al horno a 200 °C por 8 a 10 minutos, hasta que la mozzarella se derrita y los bordes estén crujientes. Deja reposar 3 minutos para que el queso se asiente.",
+      "Cortar: Corta en una cuadrícula de 5x9 con un cuchillo de sierra para obtener 45 rectángulos perfectos de 4x3 cm."
+    ]
+  },
+  {
+    "id": "cannoli",
+    "title": "Mini Cannoli de Crema Pastelera de Naranja",
+    "yield": "Rinde: 45 bocaditos de ~25-30 g",
+    "ingredient_groups": [
+      {
+        "name": "Masa",
+        "items": [
+          "Harina 0000: 625 g",
+          "Azúcar: 75 g",
+          "Mantequilla: 75 g",
+          "Huevos: 2 enteros + 1 yema",
+          "Vino blanco: 125 g",
+          "Sal: 5 g",
+          "Aceite para freír"
+        ]
+      },
+      {
+        "name": "Crema de Naranja",
+        "items": [
+          "Leche entera: 1000 g",
+          "Jugo de naranja exprimido y filtrado: 250 g",
+          "Ralladura de naranja: 2 und.",
+          "Yemas: 5 und.",
+          "Azúcar: 250 g",
+          "Fécula de maíz: 100 g",
+          "Mantequilla: 50 g",
+          "Esencia de vainilla: 12 g",
+          "Azúcar impalpable para decorar: 50 g"
+        ]
+      }
+    ],
+    "steps": [
+      "La masa: Mezcla harina, azúcar y sal. Incorpora mantequilla, huevo y vino blanco. Amasa por 10 minutos, envuelve en film y deja reposar 1 hora.",
+      "La crema: Calienta la leche con la ralladura de naranja (infusionar 10 min). En un bowl, mezcla azúcar, fécula, yemas y el jugo de naranja frío. Vierte la leche caliente colada, lleva a fuego medio sin dejar de remover hasta que espese y hierva. Retira, añade mantequilla y vainilla, cubre con film al contacto y refrigera.",
+      "Formado y fritura: Estira la masa fina (2 mm), corta discos de 6 cm, enróllalos en tubos metálicos pequeños sellando el borde con agua y fríe en aceite a 170 °C por 1 minuto. Retira el molde con cuidado.",
+      "Montaje: Rellena los tubos por ambos lados con la crema de naranja fría usando una manga justo antes de servir, decora las puntas y espolvorea azúcar impalpable."
+    ]
+  },
+  {
+    "id": "menta",
+    "title": "Gaseosa Casera de Menta",
+    "yield": "Rinde: 45 vasos de 180 ml",
+    "ingredient_groups": [
+      {
+        "name": "Ingredientes",
+        "items": [
+          "Hojas de menta fresca: 150 g",
+          "Azúcar blanca: 1350 g (para el sirope)",
+          "Agua: 1350 g (para el sirope)",
+          "Agua carbonatada / Soda fría: 7 litros",
+          "Vasos de 180 ml: 45 unidades"
+        ]
+      }
+    ],
+    "steps": [
+      "Sirope de menta: En una olla, calienta el agua y el azúcar hasta disolver por completo. Agrega las hojas de menta fresca limpia, apaga el fuego, tapa y deja infusionar hasta que enfríe. Cuela el sirope y guárdalo en frío.",
+      "Servicio: En cada vaso de 180 ml, coloca aproximadamente 30 ml de sirope de menta y completa rellenando con 150 ml de agua carbonatada bien fría justo al momento de servir para conservar las burbujas."
+    ]
+  }
+]
