@@ -1,6 +1,6 @@
 # Italia · FEXPO IGA 2026 - SABORES DEL MUNDO
 
-Sitio estático del stand de Italia en FEXPO IGA 2026 - SABORES DEL MUNDO. Incluye las cuatro recetas del menú de la feria, con imágenes y desplegables, además de 23 curiosidades y un quiz de seis preguntas con explicaciones, repaso y reinicio. HTML, CSS y JavaScript sin frameworks ni backend.
+Sitio estático del stand de Italia en FEXPO IGA 2026 - SABORES DEL MUNDO. Incluye las cinco recetas del menú de la feria, con imágenes y desplegables, además de 23 curiosidades y un quiz de seis preguntas con explicaciones, repaso y reinicio. HTML, CSS y JavaScript sin frameworks ni backend.
 
 ## Publicar en GitHub Pages
 
@@ -62,7 +62,7 @@ Se revisaron los cinco temas del documento proporcionado. Ahora todos están cub
 
 ### Identidad de la feria
 
-El nombre oficial «FEXPO IGA 2026 - SABORES DEL MUNDO» aparece en la franja de apertura, portada, recetario, cierre, equipo y pie de página. Se incluyen los integrantes tal como figuran en el documento: Rocío Melany, Dylan Revollo y Nancy Figueroa. Se utiliza el logo oficial IGA proporcionado por el grupo. El amarillo, rojo, azul y turquesa, los títulos condensados y las formas redondeadas retoman el estilo de las piezas promocionales entregadas. Las capturas de redes sociales se utilizaron como referencia visual, sin incrustar su interfaz en la web.
+El nombre oficial «FEXPO IGA 2026 - SABORES DEL MUNDO» aparece en la franja de apertura, portada, recetario, cierre, equipo y pie de página. Se incluyen los integrantes del documento actualizado: Melany Callisaya, Dylan Revollo y Nancy Figueroa. Se utiliza el logo oficial IGA proporcionado por el grupo. El amarillo, rojo, azul y turquesa, los títulos condensados y las formas redondeadas retoman el estilo de las piezas promocionales entregadas. Las capturas de redes sociales se utilizaron como referencia visual, sin incrustar su interfaz en la web.
 
 ### Fotografías
 
@@ -71,12 +71,13 @@ Diez fotografías locales alusivas a pizza, tiramisù, Parmigiano Reggiano, toma
 
 ## Recetario oficial incorporado · 20 de octubre de 2026
 
-Las cuatro preparaciones de «Recetas oficial.docx» se transcribieron a HTML, sin modificar cantidades, temperaturas, tiempos o rendimientos indicados en el documento. Se normalizó la tilde de «ragú» en el título. Los ingredientes aparecen agrupados y los 15 pasos de preparación se consultan en desplegables que también funcionan sin JavaScript.
+Las cinco preparaciones de «Recetas_oficial.docx» se transcribieron a HTML, sin modificar cantidades, temperaturas, tiempos o rendimientos indicados en el documento. Se normalizó la tilde de «ragú» en el título. Los ingredientes aparecen agrupados y los 22 pasos de preparación se consultan en desplegables que también funcionan sin JavaScript.
 
 1. Arancinis de ragú con jamón.
 2. Focaccia rellena con jamón, estilo sándwich gratinado.
 3. Mini cannoli de crema pastelera de naranja.
 4. Gaseosa casera de menta.
+5. Tiramisú clásico.
 
 El botón principal «Ver las recetas de la feria» y el enlace «Nuestras recetas» de la cabecera llevan al recetario, situado antes de las curiosidades. La cabecera permanece visible al desplazarse. Los accesos rápidos de cada preparación llevan a su tarjeta.
 
@@ -96,3 +97,12 @@ El conjunto completo de instrucciones de generación se conserva en [image-gener
 ### Comprobaciones de esta versión
 
 Revisión visual en escritorio, tableta y celular; comprobación de enlaces al recetario, desplegables con teclado, recursos locales y respuesta del quiz. No requiere servidor, base de datos ni instalación de dependencias. Se entrega como ZIP estático listo para GitHub Pages; no se ha publicado en una cuenta de GitHub.
+
+
+## Quinta receta: Tiramisú Clásico
+
+Se incorporó el tiramisú del documento actualizado, con su rendimiento de 45 porciones de aproximadamente 130 g, los cuatro grupos de ingredientes y utensilios y sus siete pasos completos. Se conservaron exactamente sus cantidades, temperaturas, tiempos y las indicaciones de conservación del recetario. Las cuatro recetas anteriores no cambiaron.
+
+Se actualizaron el contador de portada, la introducción del menú, la descripción, el quinto acceso rápido y la lista de integrantes (Melany Callisaya, Dylan Revollo y Nancy Figueroa). La tarjeta del tiramisú incluye la fotografía `assets/photos/tiramisu.jpg`, ya presente en el sitio: Markus Mitterauer, Wikimedia Commons, CC BY-SA 2.0, con recorte de encuadre. Es una foto de referencia, no una fotografía de la preparación servida en la feria. Las cuatro imágenes generadas con IA del menú anterior se conservan.
+
+Para actualizar una publicación existente, el ZIP de cambios contiene únicamente `index.html`, `fexpo.css`, `assets/recipes/recipes.json` y `README.md`. Sustituye estos archivos en las mismas rutas del repositorio; conserva los demás recursos. El ZIP completo también incluye todas las imágenes y archivos necesarios para una publicación nueva.

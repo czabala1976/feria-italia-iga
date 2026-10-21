@@ -142,5 +142,52 @@
       "Sirope de menta: En una olla, calienta el agua y el azúcar hasta disolver por completo. Agrega las hojas de menta fresca limpia, apaga el fuego, tapa y deja infusionar hasta que enfríe. Cuela el sirope y guárdalo en frío.",
       "Servicio: En cada vaso de 180 ml, coloca aproximadamente 30 ml de sirope de menta y completa rellenando con 150 ml de agua carbonatada bien fría justo al momento de servir para conservar las burbujas."
     ]
+  },
+  {
+    "id": "tiramisu",
+    "title": "Tiramisú Clásico",
+    "yield": "Rinde: 45 porciones de ~130 g",
+    "ingredient_groups": [
+      {
+        "name": "Crema de mascarpone",
+        "items": [
+          "Huevos: 24 und. (yemas y claras por separado)",
+          "Azúcar: 700 g (300 g para el sabayón + 400 g para el merengue)",
+          "Agua: 130 g (para el almíbar del merengue)",
+          "Queso mascarpone: 2250 g",
+          "Sal: 1 pizca generosa"
+        ]
+      },
+      {
+        "name": "Para mojar",
+        "items": [
+          "Café negro intenso: 750 g",
+          "Licor amaretto: 60 g"
+        ]
+      },
+      {
+        "name": "Montaje",
+        "items": [
+          "Galletas de champagne (biscuits): 115 und.",
+          "Cacao amargo o chocolate negro amargo rallado: 90 g"
+        ]
+      },
+      {
+        "name": "Utensilios",
+        "items": [
+          "Copas o vasos de ~150 ml: 45 unidades (o fuentes)",
+          "Termómetro de cocina: 1 unidad"
+        ]
+      }
+    ],
+    "steps": [
+      "Sabayón: En un bowl a baño María (sin que el agua toque el fondo), bate las yemas con 300 g de azúcar sin parar hasta que la crema llegue a 70 °C, espese y tome un color beige claro. Retira del fuego y sigue batiendo hasta que se enfríe. Trabaja en 2 o 3 tandas.",
+      "Crema de mascarpone: Agrega el mascarpone de a poco al sabayón ya frío y mezcla hasta obtener una crema homogénea y sin grumos.",
+      "Merengue italiano: Cocina 400 g de azúcar con el agua hasta que el almíbar llegue a 118–120 °C. Mientras tanto, bate las claras con la pizca de sal hasta que estén espumosas; vierte el almíbar en hilo fino sin dejar de batir y continúa hasta que el merengue esté firme, brillante y a temperatura ambiente.",
+      "Unir la crema: Incorpora el merengue a la crema de mascarpone con movimientos envolventes, de a poco, para que no pierda aire. Reserva en frío.",
+      "Remojo: En un recipiente ancho, mezcla el café tibio con el licor amaretto y sumerge brevemente las galletas de champagne, sin empaparlas de más.",
+      "Montaje: Coloca una capa de galletas remojadas en las copas o en la fuente donde se servirá y cúbrela con una capa generosa de crema de mascarpone. Repite el proceso 2 o 3 veces más.",
+      "Reposo y servicio: Refrigera durante 12 horas. Al momento de servir, espolvorea por encima el cacao o el chocolate amargo. Mantén las copas en frío y no las dejes más de 2 horas a temperatura ambiente."
+    ]
   }
 ]

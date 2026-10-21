@@ -13,3 +13,10 @@ body{background:var(--cream)}h1,h2{font-family:Impact,"Arial Narrow","Arial Blac
 .fexpo .recipe-shortcuts a{display:flex}
 .ingredient-group h5,.recipe-method li::marker,.recipe-shortcuts a span{color:var(--red)}
 .recipe-copy .eyebrow{color:#126c63}
+
+/* Fifth preparation added from the updated group recipe book. */
+.recipe-shortcuts{grid-template-columns:repeat(5,minmax(0,1fr))}
+.recipe-card--fifth{grid-column:1/-1;width:calc((100% - 24px)/2);justify-self:center}
+@media(max-width:999px){.recipe-shortcuts{grid-template-columns:repeat(2,minmax(0,1fr))}.recipe-shortcuts a:last-child{grid-column:1/-1}.recipe-card--fifth{width:calc((100% - 20px)/2)}}
+@media(max-width:599px){.recipe-card--fifth{width:100%}}
+@media print{.recipe-card--fifth{width:100%}}
