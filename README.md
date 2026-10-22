@@ -5,7 +5,7 @@ Sitio estático del stand de Italia en FEXPO IGA 2026 - SABORES DEL MUNDO. Inclu
 ## Publicar en GitHub Pages
 
 1. Crea un repositorio público, por ejemplo `italia-gastronomica`.
-2. Descomprime el ZIP. Sube **el contenido de esta carpeta** a la raíz del repositorio: `index.html`, `styles.css`, `fexpo.css`, `script.js`, `assets/`, `README.md` y `.nojekyll`. No subas el ZIP ni dejes `index.html` dentro de otra carpeta.
+2. Descomprime el ZIP. Sube **el contenido de esta carpeta** a la raíz del repositorio: `index.html`, `styles.css`, `fexpo.css`, `campaign.css`, `script.js`, `assets/`, `README.md` y `.nojekyll`. No subas el ZIP ni dejes `index.html` dentro de otra carpeta.
 3. En el repositorio, abre **Settings → Pages**.
 4. En **Build and deployment**, selecciona **Deploy from a branch**.
 5. Selecciona la rama **main** y la carpeta **/ (root)**. Guarda.
@@ -26,6 +26,7 @@ Puedes abrir `index.html` directamente en un navegador; no necesita instalación
 - `index.html`: contenido, etiquetas de hecho/costumbre/leyenda/historia y fuentes enlazadas por curiosidad.
 - `styles.css`: estructura responsive, foco visible y movimiento reducido.
 - `fexpo.css`: identidad visual FEXPO IGA 2026, logo, recetario y ajustes para celular.
+- `campaign.css`: adaptación al afiche suministrado, portada con cartela blanca, formas de color y refinamiento de tarjetas.
 - `assets/logo-iga.png`: logo oficial proporcionado por el grupo.
 - `assets/recipes/`: imágenes ilustrativas, transcripción de recetas y registro de generación.
 - `script.js`: preguntas, respuestas, explicaciones y lógica del quiz.
@@ -106,3 +107,12 @@ Se incorporó el tiramisú del documento actualizado, con su rendimiento de 45 p
 Se actualizaron el contador de portada, la introducción del menú, la descripción, el quinto acceso rápido y la lista de integrantes (Melany Callisaya, Dylan Revollo y Nancy Figueroa). La tarjeta del tiramisú incluye la fotografía `assets/photos/tiramisu.jpg`, ya presente en el sitio: Markus Mitterauer, Wikimedia Commons, CC BY-SA 2.0, con recorte de encuadre. Es una foto de referencia, no una fotografía de la preparación servida en la feria. Las cuatro imágenes generadas con IA del menú anterior se conservan.
 
 Para actualizar una publicación existente, el ZIP de cambios contiene únicamente `index.html`, `fexpo.css`, `assets/recipes/recipes.json` y `README.md`. Sustituye estos archivos en las mismas rutas del repositorio; conserva los demás recursos. El ZIP completo también incluye todas las imágenes y archivos necesarios para una publicación nueva.
+
+
+## Edición visual con el afiche · 21 de octubre de 2026
+
+La portada utiliza directamente el afiche suministrado `IMG_2426.jpg`, guardado como `assets/feria/fexpo-iga-2026-afiche.jpg`. El archivo original se conserva sin retocar. El encuadre en la web recorta el lateral derecho mediante CSS para dejar fuera los botones de la captura social y conservar el nombre FEXPO IGA 2026, el lema y la información del afiche. Se mantienen la fecha y el lugar que aparecen en la pieza original.
+
+Se ajustaron la portada, las cartelas, franjas, formas curvas, accesos al recetario, numeración y tarjetas a la paleta de amarillo, rojo, azul y turquesa. Los ingredientes, pasos de las cinco recetas, 23 curiosidades y lógica del quiz se conservan.
+
+Para actualizar desde la versión de cinco recetas, el ZIP de actualización visual contiene `index.html`, `campaign.css`, `assets/feria/fexpo-iga-2026-afiche.jpg` y `README.md`. Copia los cuatro archivos en las mismas rutas del repositorio y conserva los demás archivos. También se entrega un ZIP con el sitio completo actualizado.
